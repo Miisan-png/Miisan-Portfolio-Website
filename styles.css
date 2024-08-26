@@ -25,14 +25,17 @@ nav {
     width: 200px;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-
 nav ul li {
     margin-bottom: 20px;
+    white-space: nowrap; /* Prevents text wrapping */
+}
+
+nav ul li a {
+    color: #ff0055;
+    text-decoration: none;
+    font-size: 18px; /* Slightly reduced font size */
+    display: block;
+    padding: 5px 0; /* Added some vertical padding */
 }
 
 nav ul li a {
