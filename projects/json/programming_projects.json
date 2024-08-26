@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Weather App",
+      "description": "A web application that provides real-time weather information using a third-party API.",
+      "image": "images/weather_app.png",
+      "link": "https://github.com/Rena-afk-c/weather-app",
+      "type": "programming"
+    },
+    {
+      "title": "Task Manager CLI",
+      "description": "A command-line interface tool for managing tasks and to-do lists, built with Python.",
+      "image": "images/task_manager.png",
+      "link": "https://github.com/Rena-afk-c/task-manager-cli",
+      "type": "programming"
+    },
+    {
+      "title": "Portfolio Website",
+      "description": "A responsive portfolio website built with HTML, CSS, and JavaScript.",
+      "image": "images/portfolio_website.png",
+      "link": "https://github.com/Rena-afk-c/portfolio-website",
+      "type": "programming"
+    }
+  ]

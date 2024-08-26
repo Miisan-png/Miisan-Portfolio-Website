@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Cyberpunk City",
+      "description": "A detailed pixel art illustration of a futuristic cyberpunk cityscape.",
+      "image": "projects/example.jpg",
+      "link": "https://www.artstation.com/artwork/cyberpunk-city",
+      "type": "art"
+    },
+    {
+      "title": "Fantasy Character Designs",
+      "description": "A collection of original fantasy character designs for a personal project.",
+      "image": "images/fantasy_characters.png",
+      "link": "https://www.artstation.com/artwork/fantasy-character-designs",
+      "type": "art"
+    },
+    {
+      "title": "Game Asset Pack: Forest",
+      "description": "A set of pixel art assets for forest-themed game environments.",
+      "image": "images/forest_assets.png",
+      "link": "https://itch.io/s/forest-asset-pack",
+      "type": "art"
+    }
+  ]

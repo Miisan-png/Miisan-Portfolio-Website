@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Game Development",
+      "level": 85,
+      "icon": "sports_esports"
+    },
+    {
+      "name": "Unity",
+      "level": 50,
+      "icon": "view_in_ar"
+    },
+    {
+        "name": "Godot",
+        "level": 90,
+        "icon": "view_in_ar"
+      },
+    {
+      "name": "C#",
+      "level": 60,
+      "icon": "code"
+    },
+    {
+        "name": "GDScript",
+        "level": 80,
+        "icon": "code"
+      },
+    {
+      "name": "Pixel Art",
+      "level": 75,
+      "icon": "brush"
+    },
+    {
+      "name": "JavaScript",
+      "level": 50,
+      "icon": "javascript"
+    },
+    {
+      "name": "HTML/CSS",
+      "level": 30,
+      "icon": "html"
+    },
+    {
+      "name": "Git",
+      "level": 65,
+      "icon": "merge_type"
+    },
+    {
+      "name": "Blender",
+      "level": 40,
+      "icon": "animation"
+    }
+  ]

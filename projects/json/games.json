@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Pixel Platformer",
+      "description": "A challenging 2D platformer with retro-style graphics and unique mechanics.",
+      "image": "images/pixel_platformer.png",
+      "link": "https://miisan.itch.io/pixel-platformer",
+      "type": "games"
+    },
+    {
+      "title": "Space Shooter Deluxe",
+      "description": "An action-packed space shooter with procedurally generated levels.",
+      "image": "images/space_shooter.png",
+      "link": "https://miisan.itch.io/space-shooter-deluxe",
+      "type": "games"
+    },
+    {
+      "title": "Puzzle Quest",
+      "description": "A brain-teasing puzzle game with over 100 unique levels.",
+      "image": "images/puzzle_quest.png",
+      "link": "https://miisan.itch.io/puzzle-quest",
+      "type": "games"
+    }
+  ]
