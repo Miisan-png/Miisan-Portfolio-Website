@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azar Ali - Artworks</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+    <link rel="stylesheet" href="general_style.css">
+    <link rel="stylesheet" href="artworks.css">
+</head>
+<body>
+    <div id="particles-js"></div>
+
+    <div class="container">
+        <div class="header">
+            <a href="index.html" class="back-button">
+                <span class="material-icons-round">arrow_back</span>
+                Back to Home
+            </a>
+            <h1>My Artworks</h1>
+        </div>
+
+        <div class="gallery-grid" id="artwork-gallery">
+            <!-- Gallery items will be populated by JavaScript -->
+        </div>
+    </div>
+
+    <!-- Image Modal -->
+    <div id="image-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal material-icons-round">close</span>
+            <img id="modal-image" src="" alt="">
+            <div class="modal-info">
+                <h3 id="modal-title"></h3>
+                <p id="modal-description"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="artworks.js"></script>
+</body>
+</html>

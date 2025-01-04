@@ -75,6 +75,7 @@ particlesJS('particles-js',
   }
 );
 
+
 // Fetch GitHub repository count
 async function fetchGitHubRepos() {
   try {
@@ -112,6 +113,6 @@ window.onclick = function(event) {
     resumeFrame.src = '';
   }
 }
-
-// Initialize
 fetchGitHubRepos();
+
+

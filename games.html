@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azar Ali - Games</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+    <link rel="stylesheet" href="general_style.css">
+    <link rel="stylesheet" href="games.css">
+</head>
+<body>
+    <div id="particles-js"></div>
+
+    <div class="container">
+        <div class="header">
+            <a href="index.html" class="back-button">
+                <span class="material-icons-round">arrow_back</span>
+                Back to Home
+            </a>
+            <h1>My Games (More on itch :P lazy to update) </h1>
+        </div>
+
+        <div class="games-grid" id="games-gallery"></div>
+    </div>
+
+    <!-- Game Details Modal -->
+    <div id="game-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal material-icons-round">close</span>
+            <div class="modal-body">
+                <div class="game-info">
+                    <h2 id="modal-title"></h2>
+                    <p id="modal-description"></p>
+                    <div class="game-meta">
+                        <div class="game-tech">
+                            <h3>Technologies</h3>
+                            <div id="modal-tech" class="tech-tags"></div>
+                        </div>
+                        <a id="modal-play-link" class="play-button" target="_blank" rel="noopener noreferrer">
+                            <span class="material-icons-round">sports_esports</span>
+                            Play Game
+                        </a>
+                    </div>
+                </div>
+                <div class="screenshots-section">
+                    <h3>Screenshots</h3>
+                    <div id="modal-screenshots" class="screenshots-grid"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="games.js"></script>
+</body>
+</html>
